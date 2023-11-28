@@ -29,7 +29,7 @@ github:
   username: krystal-cao # change to your github username
 
 twitter:
-  username: twitter_username # change to your twitter username
+  username: krystal-cao # change to your twitter username
 
 social:
   # Change to your full name.
@@ -79,7 +79,7 @@ avatar: https://axlgpnw9a3vl.compat.objectstorage.ap-singapore-1.oci.customer-oc
 toc: true
 
 comments:
-  active: # The global switch for posts comments, e.g., 'disqus'.  Keep it empty means disable
+  active: giscus # The global switch for posts comments, e.g., 'disqus'.  Keep it empty means disable
   # The active options are as follows:
   disqus:
     shortname: # fill with the Disqus shortname. › https://help.disqus.com/en/articles/1717111-what-s-a-shortname
@@ -112,7 +112,7 @@ pwa:
 paginate: 10
 
 # The base URL of your site
-baseurl: ""
+baseurl: "pages.liunian.org"
 
 # ------------ The following options are not recommended to be modified ------------------
 
