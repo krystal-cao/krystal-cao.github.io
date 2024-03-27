@@ -73,7 +73,7 @@ theme_mode: # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: https://axlgpnw9a3vl.compat.objectstorage.ap-singapore-1.oci.customer-oci.com/bucket-20230905-1034/images/895.jpeg
+avatar: https://axlgpnw9a3vl.objectstorage.ap-singapore-1.oci.customer-oci.com/n/axlgpnw9a3vl/b/bucket-20230905-1034/o/IMG_0328.JPG
 
 # boolean type, the global switch for TOC in posts.
 toc: true
