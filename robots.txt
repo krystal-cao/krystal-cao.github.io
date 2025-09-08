@@ -1,4 +1,4 @@
-# robots.txt  
+# robots.txt
 User-agent: *
-Disallow: 
-Sitemap: http://www.oukohou.wang/sitemap.xml
+Disallow:
+Sitemap: http://liunian.org/sitemap.xml
