@@ -1,13 +1,13 @@
 # Site settings
-title: krystal
+title: Krystal
 subtitle: 我热爱这个世界
-keywords: krystal
+keywords: Krystal
 description: 以自身的魅力，证明存在的价值！
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.liunian.org" # 你的域名
-page_no_title: "krystal's blog" # 文章无标题时默认显示内容
+page_no_title: "Krystal's blog" # 文章无标题时默认显示内容
 beian: # "备案号"
-author: krystal
+author: Krystal
 email: jerry.caocc@liunian.org
 
 # Build settings
