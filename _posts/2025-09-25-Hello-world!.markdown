@@ -14,10 +14,10 @@ That's all.
 
 
 
-{% highlight python %}
-def print_hi(name):
-   print("Hi, " + name)
-print_hi("I'm Krystal")
+{% highlight java %}
+public static void main(String[] args){
+   System.out.println("Hello World!");
+}
 {% endhighlight %}
 
 regards.
