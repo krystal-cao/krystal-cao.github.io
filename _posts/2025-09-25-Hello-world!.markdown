@@ -7,18 +7,8 @@ categories: [日志]
 ---
 你好!
 
-这是我的第一篇博客！ [site](http://liunian.org/).
+这是我的第一篇博客！
 
 以上。
 
-
-
-
-{% highlight java %}
-public static void main(String[] args){
-   System.out.println("Hello World!");
-}
-{% endhighlight %}
-
 <h4 align = "right">Krystal.</h4>
-
