@@ -1,15 +1,15 @@
 ---
 layout: post
-title:  "Hello world!"
+title:  "你好"
 tags:   hello diary
 date:   2025-09-25 09:36:35 +0800
 categories: [日志] 
 ---
-Hello there!
+你好!
 
-This is my first blog on my blog [site](http://liunian.org/).
+这是我的第一篇博客！ [site](http://liunian.org/).
 
-That's all.
+以上。
 
 
 
@@ -20,6 +20,5 @@ public static void main(String[] args){
 }
 {% endhighlight %}
 
-regards.
 <h4 align = "right">Krystal.</h4>
 
